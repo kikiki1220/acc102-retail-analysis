@@ -36,14 +36,13 @@ The main steps in this project include:
 - Visualisations make it easier to identify sales trends and comparisons.
 
 ## 5. How to run
-Open the notebook file in Jupyter Notebook or VS Code.  
-Install the required Python libraries, then run the cells in order.
-
-Main file:
-- `ACC102_Track2_Retail_Transaction_Analysis.ipynb`
+1. Download or clone this repository.
+2. Open `ACC102_Track2_Retail_Transaction_Analysis.ipynb` in Jupyter Notebook or VS Code.
+3. Make sure the required libraries are installed, including pandas, matplotlib, and seaborn.
+4. Run the notebook cells in order.
 
 ## 6. Product link / Demo
-GitHub repository link: to be added after upload.
+GitHub repository link: https://github.com/kikiki1220/acc102-retail-analysis
 
 ## 7. Limitations & Next Steps
 This project is based on one dataset and uses mainly descriptive analysis. In future work, more advanced analysis could be applied, such as predictive modelling, customer segmentation, or interactive dashboards.
